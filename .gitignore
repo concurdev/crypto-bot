@@ -1,0 +1,7 @@
+node_modules
+msg.js
+msg.txt
+dist
+logs
+diagram.*
+.env
